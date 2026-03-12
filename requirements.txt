@@ -1,0 +1,7 @@
+flask==3.0.3
+transformers>=4.35.0
+torch
+Pillow==10.3.0
+gunicorn==22.0.0
+werkzeug==3.0.3
+numpy==1.26.4
